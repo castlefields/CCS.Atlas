@@ -1,0 +1,5 @@
+test_id,facility_used_by_id,report_group_id,facility_lender,period,group_by,description
+1,NULL,"8c0ccda6-d99a-ef11-8a6b-000d3aaae10a",NULL,L12M,year_month,Report Group
+2,"178a2d56-2e0a-e711-80e3-1458d043b558",NULL,NULL,L12M,year_month,Facility
+3,"178a2d56-2e0a-e711-80e3-1458d043b558",NULL,novuna,L12M,year_month,Facility Novuna
+4,"178a2d56-2e0a-e711-80e3-1458d043b558",NULL,omni,L12M,year_month,Facility Omni

@@ -1,0 +1,67 @@
+﻿# Test Results Comparison - Test ID: 1
+Baseline: rpt_mth_account_ecof_application_paid_0331_1527 (test_1_result.csv)
+Comparison: rpt_mth_account_ecof_application_paid_0401_2135 (test_1_result.csv)
+Generated: 04/01/2025 18:32:06
+
+## Summary
+
+- Baseline rows: 12
+- Comparison rows: 33
+
+WARNING: Row count mismatch detected!
+
+## Columns
+- Baseline: report_name, moment, ecof_count, ecof_advance, proposed_count, accept_count, accept_val, accept_avg, accept_rate, decline_count, pending_count, advance_count, advance_val, advance_avg, commission_val, commission_rate_avg, budget, budget_rate
+- Comparison: report_name, moment, ecof_count, ecof_advance, proposed_count, accept_count, accept_val, accept_avg, accept_rate, decline_count, pending_count, advance_count, advance_val, advance_avg, commission_val, commission_rate_avg, budget, budget_rate
+
+## Data Comparison
+
+Found 45 differences in key metrics:
+
+Moment   Column      Baseline    Comparison  Difference  % Change
+-------  ----------  ----------  ----------  ----------  ----------
+2024-04  budget                  System.Object[] N/A         N/A        
+2024-04  budget_rate             System.Object[] N/A         N/A        
+2024-04  advance_val 96164.00    System.Object[] N/A         N/A        
+2024-04  accept_rate 0.904762    System.Object[] N/A         N/A        
+2024-05  budget                  System.Object[] N/A         N/A        
+2024-05  budget_rate             System.Object[] N/A         N/A        
+2024-05  advance_val 72433.00    System.Object[] N/A         N/A        
+2024-05  accept_rate 0.928571    System.Object[] N/A         N/A        
+2024-06  budget                  System.Object[] N/A         N/A        
+2024-06  budget_rate             System.Object[] N/A         N/A        
+2024-06  advance_val 99812.00    System.Object[] N/A         N/A        
+2024-06  accept_rate 0.909091    System.Object[] N/A         N/A        
+2024-07  budget                  System.Object[] N/A         N/A        
+2024-07  budget_rate             System.Object[] N/A         N/A        
+2024-07  advance_val 120644.00   System.Object[] N/A         N/A        
+2024-07  accept_rate 1.000000    System.Object[] N/A         N/A        
+2024-08  budget                  System.Object[] N/A         N/A        
+2024-08  budget_rate             System.Object[] N/A         N/A        
+2024-08  advance_val 75444.00    System.Object[] N/A         N/A        
+2024-08  accept_rate 1.000000    System.Object[] N/A         N/A        
+2024-09  budget                  System.Object[] N/A         N/A        
+2024-09  budget_rate             System.Object[] N/A         N/A        
+2024-09  advance_val 34488.00    System.Object[] N/A         N/A        
+2024-09  accept_rate 1.000000    System.Object[] N/A         N/A        
+2024-10  budget                  System.Object[] N/A         N/A        
+2024-10  budget_rate             System.Object[] N/A         N/A        
+2024-10  advance_val 56687.00    System.Object[] N/A         N/A        
+2024-10  accept_rate 0.923077    System.Object[] N/A         N/A        
+2024-11  budget                  System.Object[] N/A         N/A        
+2024-11  budget_rate             System.Object[] N/A         N/A        
+2024-11  advance_val 39086.00    System.Object[] N/A         N/A        
+2024-11  accept_rate 1.000000    System.Object[] N/A         N/A        
+2024-12  budget                  System.Object[] N/A         N/A        
+2024-12  budget_rate             System.Object[] N/A         N/A        
+2024-12  advance_val 69623.00    System.Object[] N/A         N/A        
+2024-12  accept_rate 1.000000    System.Object[] N/A         N/A        
+2025-01  budget      356666.67   System.Object[] N/A         N/A        
+2025-01  budget_rate 0.237958    System.Object[] N/A         N/A        
+2025-01  advance_val 84872.00    System.Object[] N/A         N/A        
+2025-01  accept_rate 1.000000    System.Object[] N/A         N/A        
+2025-02  budget      356666.67   System.Object[] N/A         N/A        
+2025-02  budget_rate 0.096894    System.Object[] N/A         N/A        
+2025-02  advance_val 34559.00    System.Object[] N/A         N/A        
+2025-02  accept_rate 0.937500    System.Object[] N/A         N/A        
+2025-03  ALL         Present     Missing     N/A         N/A        

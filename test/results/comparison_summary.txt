@@ -1,0 +1,17 @@
+﻿# Test Comparison Summary Report
+Generated: 04/01/2025 18:32:06
+
+This report compares test results with the same test ID across different procedure versions.
+
+## Procedures Compared
+- rpt_mth_account_ecof_application_paid_0331_1527
+- rpt_mth_account_ecof_application_paid_0401_2135
+
+## Test Comparisons
+
+Test ID  Baseline    Comparison  Result
+-------  ----------  ----------  ----------------------------------------
+1        rpt_mth_account_ecof_application_paid_0331_1527 rpt_mth_account_ecof_application_paid_0401_2135 [DIFF] Found 45 differences in key metrics.
+2        rpt_mth_account_ecof_application_paid_0331_1527 rpt_mth_account_ecof_application_paid_0401_2135 [MATCH] No differences found in key metrics.
+3        rpt_mth_account_ecof_application_paid_0331_1527 rpt_mth_account_ecof_application_paid_0401_2135 [MATCH] No differences found in key metrics.
+4        rpt_mth_account_ecof_application_paid_0331_1527 rpt_mth_account_ecof_application_paid_0401_2135 [MATCH] No differences found in key metrics.

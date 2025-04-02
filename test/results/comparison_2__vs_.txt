@@ -1,0 +1,17 @@
+﻿# Test Results Comparison - Test ID: 2
+Baseline: rpt_mth_account_ecof_application_paid_0331_1527 (test_2_result.csv)
+Comparison: rpt_mth_account_ecof_application_paid_0401_2135 (test_2_result.csv)
+Generated: 04/01/2025 18:32:06
+
+## Summary
+
+- Baseline rows: 12
+- Comparison rows: 12
+
+## Columns
+- Baseline: report_name, moment, ecof_count, ecof_advance, proposed_count, accept_count, accept_val, accept_avg, accept_rate, decline_count, pending_count, advance_count, advance_val, advance_avg, commission_val, commission_rate_avg, budget, budget_rate
+- Comparison: report_name, moment, ecof_count, ecof_advance, proposed_count, accept_count, accept_val, accept_avg, accept_rate, decline_count, pending_count, advance_count, advance_val, advance_avg, commission_val, commission_rate_avg, budget, budget_rate
+
+## Data Comparison
+
+No differences found in key metrics (budget, budget_rate, advance_val, accept_rate)!
